@@ -1,5 +1,4 @@
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodekafonos&langs_count=12&layout=compact&theme=gruvbox" align="right">
 
  ## 🐧 Hello World! 🚩
  
@@ -9,6 +8,8 @@ I'm a 26 years old coffee-powered bug crafter, currently studying System Analysi
 - 🌱 I’m currently learning about Java, sorting algorithms and noSQL databases.
 
 ### > Tools I've worked with:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodekafonos&langs_count=12&layout=compact&theme=gruvbox" align="right">
 
 <div style-"display=inline_block"><br>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
