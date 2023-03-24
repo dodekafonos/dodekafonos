@@ -4,8 +4,8 @@
  
 I'm a 26 years old coffee-powered bug crafter, currently studying System Analysis and Development at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
 
-- 🔭 I’m currently working on a desktop aplication for my undergratuate course using JavaFX.
-- 🌱 I’m currently learning about Java, sorting algorithms and noSQL databases.
+- 🔭 I’m currently working on a desktop aplication for my undergratuate course using Java Swing.
+- 🌱 I’m currently learning about Java, algorithms and MySQL.
 
 ### > Tools I've worked with:
 
