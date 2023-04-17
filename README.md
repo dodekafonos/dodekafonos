@@ -1,6 +1,6 @@
 
 
- # 🐧 Hello World! 🚩
+ # Hello, World. 🐧🚩
  
 I'm a 26 years old coffee-powered bug crafter, currently studying System Analysis and Development at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
 
