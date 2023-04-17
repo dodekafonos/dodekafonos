@@ -12,6 +12,7 @@ I'm a 26 years old coffee-powered bug crafter, currently studying System Analysi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodekafonos&langs_count=12&layout=compact&theme=gruvbox" align="right">
 
 <div style-"display=inline_block"><br>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/>
