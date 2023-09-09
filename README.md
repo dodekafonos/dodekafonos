@@ -4,14 +4,15 @@
  
 I'm a 26 years old coffee-powered bug crafter, currently studying System Analysis and Development at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
 
-- 🔭 Currently working on a desktop aplication for my undergratuate course using Java Swing.
-- 🌱 Currently learning about Java, algorithms and Relational Databases.
+- 🔭 Currently working Project Management website for my undergratuate course using React and ElephantDB.
+- 🌱 Currently learning about Typescript, algorithms and Data Structures.
 
 ### > Tools I've worked with:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodekafonos&langs_count=12&layout=compact&theme=gruvbox" align="right">
 
 <div style-"display=inline_block"><br>
+<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask"/>
