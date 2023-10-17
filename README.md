@@ -4,7 +4,7 @@
  
 I'm a 26 years old coffee-powered bug crafter, currently studying System Analysis and Development at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
 
-- 🔭 Currently working Project Management website for my undergratuate course using React and ElephantDB.
+- 🔭 Currently working on a Project Management SPA for my undergratuate course using React and ElephantDB.
 - 🌱 Currently learning about Typescript, algorithms and Data Structures.
 
 ### > Tools I've worked with:
