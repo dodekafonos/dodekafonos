@@ -1,5 +1,5 @@
-<!---  <img src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" width="100%"/>
----> 
+<img src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" width="100%"/>
+
  # Hello, World. 🐧🚩
  
  ☕ I'm a 29-year-old coffee-powered bug crafter, currently studying System Analysis and Development at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
@@ -9,11 +9,10 @@
 
 ### > Tools I've worked with:
 
+[![My Skills](https://skillicons.dev/icons?i=arch,aws,bash,bootstrap,html,css,js,ts,debian,fastapi,figma,htmx,java,linux,mongodb,nginx,nodejs,postgres,react,tailwind,vim,vue
+)](https://skillicons.dev)
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodekafonos&langs_count=12&layout=compact&theme=gruvbox" align="right">
-
-<div style-"display=inline_block"><br>
-[![My Skills](https://skillicons.dev/icons?i=arch, aws, bash, bootstrap, html, css, js, ts, debian, fastapi, figma, htmx, java, linux, mongodb, nginx, nodejs, postgres, react, tailwind, vim, vue)](https://skillicons.dev)
-</div> <br>
 
 ### > Get in touch!
 <div> 
